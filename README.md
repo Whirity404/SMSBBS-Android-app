@@ -6,6 +6,8 @@
 
 最新论坛/历史版本下载(密码30pc)：https://whi.lanzoum.com/b037w2x4h
 
+EN-LINK:https://github.com/Whirity404/SMSBBS-Android-app/blob/main/EN_Readme.md
+
 V1.0 UI大改
 V2.0 启用https
 V5.0 修复若干bug
